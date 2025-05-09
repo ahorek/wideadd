@@ -1,0 +1,1 @@
+gcc -O3 -I. c:\windows\system32\opencl.dll -o testadd.exe testadd.cpp
